@@ -1,0 +1,6 @@
+package com.joaodias.springdemo;
+
+public interface Coach {
+
+    public String getDailyWorkout();
+}
