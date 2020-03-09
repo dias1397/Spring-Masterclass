@@ -17,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1WRvkwDVOdz4V0ynmUjgt14wCZ3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,7 +44,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SpringHelloApp">
+    <configuration name="BeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.joaodias.springdemo.BeanScopeDemoApp" />
+      <module name="DependencyInjection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joaodias.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringHelloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.joaodias.springdemo.SpringHelloApp" />
       <module name="DependencyInjection" />
@@ -61,6 +74,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SpringHelloApp" />
+        <item itemvalue="Application.BeanScopeDemoApp" />
       </list>
     </recent_temporary>
   </component>
@@ -77,6 +91,11 @@
       <workItem from="1579125370942" duration="497000" />
       <workItem from="1579125872877" duration="1123000" />
       <workItem from="1579127001165" duration="729000" />
+      <workItem from="1579209392009" duration="482000" />
+      <workItem from="1579210214550" duration="33000" />
+      <workItem from="1579210314148" duration="195000" />
+      <workItem from="1579210522387" duration="3000" />
+      <workItem from="1579210538516" duration="13000" />
     </task>
     <servers />
   </component>
